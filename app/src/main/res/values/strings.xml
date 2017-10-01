@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAlarm</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="music_array">
+        <item>7b</item>
+        <item>bi2</item>
+    </string-array>
+</resources>
